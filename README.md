@@ -15,7 +15,7 @@
 
 ## Education & Professional Experience:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Statistics | Yogyakarta `2020-Recently`
+#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Statistics | Yogyakarta `2021-Recently`
 
    ##### On-campus Activities:
    - Coordinator at Media and Information of Statistics Division, Himasta FMIPA UGM 2023

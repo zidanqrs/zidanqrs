@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Zidan 👋 </h1>
 
 
-<p align="center"> 
+&nbsp;<div align="center">
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z4a2otc41skb9scjazdqlivq0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z4a2otc41skb9scjazdqlivq0&redirect=true)
-</p>
+</div>
 
 
 <!--

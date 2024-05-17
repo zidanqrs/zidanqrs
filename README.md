@@ -11,6 +11,7 @@
 - 📊 I’m looking to collaborate as Data Scientist or Data Analyst.
 - 👍 love to learn more about data science.
 - 📫 How to reach me: zidan.qurosey.sabilla@mail.ugm.ac.id / zidanqs@gmail.com
+- Connect with me: [LinkedIn](https://www.linkedin.com/in/zidanqrs/), [Kaggle](https://www.kaggle.com/zidanqrs)
 
 ## Education & Professional Experience:
 
@@ -76,15 +77,9 @@ Research Link : [Soon]()
 <img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGBC3NULr8hnz4zAVW7wBcRHBlZ45lpsjZsTNSwE4qKJqlZ0En2SQHFDZcrcLmmBM2IY&usqp=CAU" style="padding-right:0px;" />
 
-<br />
-<br />
+
+
 
 ---
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zidanqrs/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zidanqrs/)
-&nbsp;&nbsp; 
 
 

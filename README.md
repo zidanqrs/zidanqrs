@@ -8,7 +8,7 @@
 - 👨‍🎓 I'm third-year Statistics undergraduate at Gadjah Mada University with a passion for Data Science & AI.
 - 💻 I'm a machine learning student at Bangkit Academy 2024 By Google, GoTo, Traveloka batch 1.
 - 📊 I’m looking to collaborate as Data Scientist or Data Analyst.
-- 👍 love to learn more about data science.
+- 👍 Enthusiastic about learning data science.
 - 📫 How to reach me: zidan.qurosey.sabilla@mail.ugm.ac.id / zidanqs@gmail.com
 - 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/zidanqrs/), [Kaggle](https://www.kaggle.com/zidanqrs)
 

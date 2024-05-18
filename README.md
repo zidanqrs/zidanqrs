@@ -45,7 +45,7 @@ Research Link : [Soon]()
 ##### Issued by Politeknik Statistika STIS Jakarta · Sep 2023
 - Research: "Strategies for Achieving Sustainability Development Goals (SDGs) in the Era of Global Uncertainty with a Green Economy Approach Using the Fuzzy C-Means Cluster Analysis Method"
 
-Research Link : [Soon]()
+Research Link : [Repository](https://github.com/zidanqrs/Approach-Green-Economy-Fuzzy-C-Means)
 
 ### **3. Semifinalist of Analisis Data National Statistics Challenge 2023**
 ##### Issued by National Statistics Challenge Universitas Brawijaya

@@ -21,6 +21,8 @@
    - Director of Visual Creative & Documentation, ANAVA #17
  
 #### 2. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort - Bangkit Cohort 2024 | Indonesia `February 2024 – Present`
+
+   ##### Capstone Project : [NutriLens: AI-Powered Food Analysis & Recipe Assistant](https://github.com/NutriLensAI)
    ##### Specialization: 
    - Supervised, Unsupervised, Recommender System and Reinforcement Learning
    - Convolutional Neural Networks in TensorFlow 
